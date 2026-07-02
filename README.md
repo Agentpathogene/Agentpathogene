@@ -18,9 +18,9 @@
 
 ---
 
-### 🛠️ Mon Arsenal Technique
 
-#### 💻 Langages & Scripting
+
+#### 💻 Langages
 <p align="left">
   <img src="https://shields.io" alt="Go">
 
@@ -28,7 +28,7 @@
 
 #### 🛡️ Environnements Cyber
 <p align="left">
-  <img src="https://shields.io" alt="Kali">
+  <img src=" https://img.shields.io/badge/any_text-you_like-blue" alt="Kali">
   <img src="https://shields.io" alt="Linux">
   <img src="https://shields.io" alt="Parrot">
  <img src="https://shields.io" alt="Active Directory">
@@ -37,7 +37,7 @@
 ---
 
 ### 🚀 Projets en vedette
-- 🐹 **[MES-PAYLOADS-GO](https://github.com)** : Mon laboratoire principal de développement de payloads et d'outils offensifs en Go.
+- 🐹 **[MES-PAYLOADS-GO](https://github.com)** : Petit depot avec quelques scripts GO
 
 
 
@@ -45,9 +45,9 @@
 ### 🤝 Communauté & Réseaux
 <p align="left">
   <a href="https://discord.gg/dbtVNHCS65" target="_blank">
-    <img src="https://shields.io" alt="Discord">
+    <img src="https://shields.io" alt="Discord    ">
   </a>
   <a href="https://www.youtube.com/@Agentpathogene-c6o" target="_blank">
-    <img src="https://shields.io" alt="YouTube">
+    <img src="https://shields.io" alt="   YouTube">
   </a>
 </p>
