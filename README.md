@@ -29,9 +29,9 @@
 #### 🛡️ Environnements Cyber
 <p align="left">
   <img src="https://img.shields.io/badge/Kali-blue" alt="">
-  <img src="#" alt="Linux">
-  <img src="#" alt="Parrot">
- <img src="#" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Parrot-OS-yellow" alt="">
+  <img src="https://img.shields.io/badge/Linux-green" alt="">
+ <img src="https://img.shields.io/badge/Active-Directory-red" alt="">
 </p>
 
 ---
@@ -45,9 +45,9 @@
 ### 🤝 Communauté & Réseaux
 <p align="left">
   <a href="https://discord.gg/dbtVNHCS65" target="_blank">
-    <img src="https://shields.io" alt="Discord    ">
+    <img src="https://img.shields.io/badge/DISCORD-purple" alt="Discord    ">
   </a>
   <a href="https://www.youtube.com/@Agentpathogene-c6o" target="_blank">
-    <img src="https://shields.io" alt="   YouTube">
+    <img src="https://img.shields.io/badge/YOUTUBE-red" alt="">
   </a>
 </p>
