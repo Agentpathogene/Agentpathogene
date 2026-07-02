@@ -28,10 +28,10 @@
 
 #### 🛡️ Environnements Cyber
 <p align="left">
-  <img src=" https://img.shields.io/badge/any_text-you_like-blue" alt="Kali">
-  <img src="https://shields.io" alt="Linux">
-  <img src="https://shields.io" alt="Parrot">
- <img src="https://shields.io" alt="Active Directory">
+  <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Kali">
+  <img src="#" alt="Linux">
+  <img src="#" alt="Parrot">
+ <img src="#" alt="Active Directory">
 </p>
 
 ---
