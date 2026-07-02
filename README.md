@@ -1,4 +1,3 @@
-
 # 🛡️ Agentpathogene | Ethical Hacker
 
 <p align="left">
@@ -8,9 +7,14 @@
 
 ### 🔍 À propos de moi
 - 🇧🇪 Passionné de cybersécurité basé en **Belgique**.
-- 🎯 Spécialisé dans le pentesting, l'analyse de vulnérabilités et les challenges **CTF**.
-- 🛠️ Développeur d'outils de sécurité offensifs en Python et en Go.
+- 🚀 Débutant et passione j'apprend le meldev en  **Go** (`MES-PAYLOADS-GO`).
 - 🌐 Visitez mon site web : [agentpathogene.github.io](https://github.io)
+
+---
+
+### 🎓 Certifications & Objectifs (Hack The Box)
+- 🏅 **CJCA** (Certified Junior Cybersecurity Analyst) : **Path Terminé !** 🎉
+- 🎯 **CPTS** (Certified Penetration Testing Specialist) : **En cours d'etude...** ⏳
 
 ---
 
@@ -18,24 +22,32 @@
 
 #### 💻 Langages & Scripting
 <p align="left">
-  <img src="https://shields.io" alt="Python">
   <img src="https://shields.io" alt="Go">
-  <img src="https://shields.io" alt="Bash">
-  <img src="https://shields.io" alt="HTML5">
+
 </p>
 
-#### 🛡️ Outils & Environnements
+#### 🛡️ Environnements Cyber
 <p align="left">
   <img src="https://shields.io" alt="Kali">
-  <img src="https://shields.io" alt="Git">
   <img src="https://shields.io" alt="Linux">
+  <img src="https://shields.io" alt="Parrot">
+ <img src="https://shields.io" alt="Active Directory">
 </p>
 
 ---
 
-### 🚀 Dépôts Phares
-- 🐍 **[CTf-CVE.py](https://github.com)** : Script d'automatisation et de recherche pour les CTF et l'analyse de vulnérabilités.
-- 🐹 **MES-PAYLOADS-GO** : Développement d'outils et de charges utiles en Go.
-- 🎯 **Myfirsthtbmachineplease** : Suivi de mes laboratoires Hack The Box.
+### 🚀 Projets en vedette
+- 🐹 **[MES-PAYLOADS-GO](https://github.com)** : Mon laboratoire principal de développement de payloads et d'outils offensifs en Go.
 
----
+
+
+
+### 🤝 Communauté & Réseaux
+<p align="left">
+  <a href="https://discord.gg/dbtVNHCS65" target="_blank">
+    <img src="https://shields.io" alt="Discord">
+  </a>
+  <a href="https://www.youtube.com/@Agentpathogene-c6o" target="_blank">
+    <img src="https://shields.io" alt="YouTube">
+  </a>
+</p>
