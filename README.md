@@ -28,7 +28,7 @@
 
 #### 🛡️ Environnements Cyber
 <p align="left">
-  <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="Kali">
+  <img src="https://img.shields.io/badge/Kali-blue" alt="">
   <img src="#" alt="Linux">
   <img src="#" alt="Parrot">
  <img src="#" alt="Active Directory">
